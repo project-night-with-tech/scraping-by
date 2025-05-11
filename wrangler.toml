@@ -1,0 +1,7 @@
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "scrapingby-db"
+database_id = "38fdbe2b-d2e5-4ef8-b073-af1ec7d5c542"
+preview_database_id = "DB"

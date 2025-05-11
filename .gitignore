@@ -1,5 +1,8 @@
 test-results
 node_modules
+pnpm-lock.yaml
+package-lock.json
+pnpm-workspace.yaml
 
 # Output
 .output
@@ -22,6 +25,3 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-# SQLite
-*.db
